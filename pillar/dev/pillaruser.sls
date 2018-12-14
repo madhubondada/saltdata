@@ -1,0 +1,3 @@
+puname: puserdev
+ppaswd: root
+
